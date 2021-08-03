@@ -9,7 +9,8 @@ This project is an assignment that REST API and Postman to test the GET, POST, P
 
 # POST
 ![image](https://user-images.githubusercontent.com/85362067/127680854-95a6f9ae-7b18-4a59-be0f-194cd967550a.png)
-![image](https://user-images.githubusercontent.com/85362067/127680876-85693af9-fe09-4587-9c76-3769470bcdd6.png)
+![image](https://user-images.githubusercontent.com/85362067/128045810-da76d79c-443f-456c-b767-2a2d89c85498.png)
+
 
 # PUT
 ![image](https://user-images.githubusercontent.com/85362067/127680913-6111b983-5e25-4ffc-ac19-cfd237dcd570.png)
